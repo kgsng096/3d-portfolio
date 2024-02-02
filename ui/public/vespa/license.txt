@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vespa px125
+* source:	https://sketchfab.com/3d-models/vespa-px125-d8d0022e70d048b4a87f7248655f73bf
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vespa px125" (https://sketchfab.com/3d-models/vespa-px125-d8d0022e70d048b4a87f7248655f73bf) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

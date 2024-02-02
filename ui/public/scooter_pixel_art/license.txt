@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scooter Pixel art
+* source:	https://sketchfab.com/3d-models/scooter-pixel-art-d0a80973f39a4c78b16473c3a4724ae0
+* author:	Nobu (https://sketchfab.com/nobu_stranger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scooter Pixel art" (https://sketchfab.com/3d-models/scooter-pixel-art-d0a80973f39a4c78b16473c3a4724ae0) by Nobu (https://sketchfab.com/nobu_stranger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
